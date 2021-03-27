@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/fschoenfeldt/valheim-server-status/issues"
   },
-  "homepage": "https://github.com/fschoenfeldt/valheim-server-status#readme"
+  "homepage": "https://github.com/fschoenfeldt/valheim-server-status#readme",
+  "dependencies": {
+    "gamedig": "^3.0.0",
+    "koa": "^2.13.1"
+  }
 }
