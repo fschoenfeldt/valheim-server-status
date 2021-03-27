@@ -1,0 +1,24 @@
+{
+  "name": "valheim-gamedig-status",
+  "version": "1.0.0",
+  "description": "check valheim sever status",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fschoenfeldt/valheim-server-status.git"
+  },
+  "keywords": [
+    "valheim",
+    "server",
+    "gamedig"
+  ],
+  "author": "fschoenfeldt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fschoenfeldt/valheim-server-status/issues"
+  },
+  "homepage": "https://github.com/fschoenfeldt/valheim-server-status#readme"
+}
