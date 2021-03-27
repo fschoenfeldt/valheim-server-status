@@ -10,7 +10,7 @@ app.use(async ctx => {
         port: 2457,
     })
 
-  ctx.body = response;
+  ctx.body = JSON.stringify(response);
 });
 
 app.listen(8080);
