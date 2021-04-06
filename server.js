@@ -44,7 +44,7 @@ app.use(async (ctx) => {
           <tbody>
             <tr>
               <th scope="row">mods</th>
-              <td>Valheim+ <a href="https://github.com/valheimPlus/ValheimPlus#gamesteam">(link)</a></td>
+              <td>Valheim+ 0.9.7 <a href="https://github.com/valheimPlus/ValheimPlus#gamesteam">(link)</a></td>
             </tr>
             <tr>
               <th scope="row">ping</th>
